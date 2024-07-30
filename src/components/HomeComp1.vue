@@ -1,10 +1,5 @@
-<script setup lang="ts">
-import WelcomeItem from './WelcomeItem.vue'
-
-</script>
+<script setup lang="ts"></script>
 
 <template>
-  <div>
-    Home component
-  </div>
+  <div>Home component</div>
 </template>
