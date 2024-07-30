@@ -3,7 +3,8 @@ import TheWelcome from '../components/TheWelcome.vue'
 </script>
 
 <template>
-  <main>
+  <div class="row">
+    <h1>Home page page</h1>
     <TheWelcome />
-  </main>
+  </div>
 </template>
